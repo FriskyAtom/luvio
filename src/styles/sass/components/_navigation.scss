@@ -86,6 +86,7 @@
 
 
     &__list {
+      backface-visibility: hidden;
       display: flex;
       border-radius: 0 0 10px 0;
       overflow: hidden;
